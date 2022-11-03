@@ -3,21 +3,18 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的姑娘",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
-        "奇怪的样子",
-        "可爱的样子",
-        "生气的样子",
-        "都是我喜欢的样子",
-        "对了，礼物收全了吗？",
-        "今年要吃好好的",
-        "喂饱饱的",
-        "然后才有力气干活",
-        "和想我！",
+        "今天是",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
+        "2022年11月4日",  // 同上...
+        "祝你生日快乐！",
+        "年年岁岁花相似",
+        "岁岁年年人向前",
+        "在未来的日子里",
+        "希望你能够",
+        "所偿皆所愿",
+        "陌上花开如玉",
+        "希望你的19岁",
+        "平安喜乐",
+        "天天开心",
         "生日快乐~~",
     ],
     /**
@@ -30,21 +27,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
-        "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
-        "可爱的样子": "./imgs/nothing.jpg",
-        "生气的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
-        "对了，礼物收全了吗？": "./imgs/chuo.gif",
-        "今年要吃好好的": "./imgs/chihaodian.jpeg",
-        "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
+        "今天是": "./imgs/songxinxin.jpeg",
+        "2022年11月4日": "./imgs/nothing.jpg",
+        "祝你生日快乐": "./imgs/zaiyiqi.png",
+        "年年岁岁花相似": "./imgs/yangzi.jpeg",
+        "岁岁年年人向前": "./imgs/nothing.jpg",
+        "在未来的日子里": "./imgs/nothing.jpg",
+        "希望你能够": "./imgs/nothing.jpg",
+        "所偿皆所愿": "./imgs/chuo.gif",
+        "陌上花开如玉": "./imgs/chihaodian.jpeg",
+        "希望你的19岁": "./imgs/weibao.jpeg",
+        "平安喜乐": "./imgs/nothing.jpg",
+        "天天开心": "./imgs/nothing.jpg",
         "生日快乐~~": "./imgs/nothing.jpg"
     },
     
@@ -61,5 +55,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '生日快乐！'
 };
