@@ -27,19 +27,19 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "今天是": "./imgs/songxinxin.jpeg",
-        "2022年11月4日": "./imgs/nothing.jpg",
-        "祝你生日快乐": "./imgs/zaiyiqi.png",
-        "年年岁岁花相似": "./imgs/yangzi.jpeg",
-        "岁岁年年人向前": "./imgs/nothing.jpg",
-        "在未来的日子里": "./imgs/nothing.jpg",
-        "希望你能够": "./imgs/nothing.jpg",
-        "所偿皆所愿": "./imgs/chuo.gif",
-        "陌上花开如玉": "./imgs/chihaodian.jpeg",
-        "希望你的19岁": "./imgs/weibao.jpeg",
-        "平安喜乐": "./imgs/nothing.jpg",
-        "天天开心": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "今天是": "./imgs/Picture1.jpg",
+        "2022年11月4日": "./imgs/Pictuer2.jpg",
+        "祝你生日快乐": "./imgs/Picture3.png",
+        "年年岁岁花相似": "./imgs/Picture4.JPG",
+        "岁岁年年人向前": "./imgs/Picture5.png",
+        "在未来的日子里": "./imgs/Picture6.jpg",
+        "希望你能够": "./imgs/Picture7.jpg",
+        "所偿皆所愿": "./imgs/Picture8.png",
+        "陌上花开如玉": "./imgs/Picture9.jpg",
+        "希望你的19岁": "./imgs/Picture10.JPG",
+        "平安喜乐": "./imgs/Picture11.JPG",
+        "天天开心": "./imgs/Picture12.png",
+        "生日快乐~~": "./imgs/Picture13.png"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
