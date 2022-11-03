@@ -29,7 +29,7 @@ var config = {
     imgs: {
         "今天是": "./imgs/Picture1.jpg",
         "2022年11月4日": "./imgs/Pictuer2.jpg",
-        "祝你生日快乐": "./imgs/Picture3.png",
+        "祝你生日快乐!": "./imgs/Picture3.png",
         "年年岁岁花相似": "./imgs/Picture4.JPG",
         "岁岁年年人向前": "./imgs/Picture5.png",
         "在未来的日子里": "./imgs/Picture6.jpg",
